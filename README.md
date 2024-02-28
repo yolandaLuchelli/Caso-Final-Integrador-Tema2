@@ -100,3 +100,4 @@ Se espera originalidad y trabajo propio. El plagio o la copia resultarán en una
 Fomentar la discusión y el feedback entre pares puede enriquecer la experiencia de aprendizaje.
 Esta rúbrica está diseñada para proporcionar una evaluación justa y detallada del proyecto final integrador, considerando varios aspectos esenciales de la programación, diseño de sistemas, y resolución de problemas en el contexto de un proyecto complejo y multidimensional.
 
+https://github.com/yolandaLuchelli/Caso-Final-Integrador-Tema2.git
